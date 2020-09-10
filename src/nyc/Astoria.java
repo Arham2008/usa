@@ -20,6 +20,8 @@ public class Astoria {
        Astoria.price=400;
        System.out.println(Astoria.price);
        
+       System.out.println( "i am learning java");
+       
 	}
 
 }
